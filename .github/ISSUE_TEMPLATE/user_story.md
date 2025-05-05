@@ -1,3 +1,12 @@
+---
+name: user_story
+about: Describe this issue template's purpose here.
+title: ''
+labels: user story
+assignees: GoodlettTech
+
+---
+
 # Description
 [Summary of the changes and the related issue. Include relevant motivation and context.]
 
